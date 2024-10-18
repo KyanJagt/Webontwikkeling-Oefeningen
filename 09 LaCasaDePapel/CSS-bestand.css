@@ -1,0 +1,10 @@
+body{
+    background: chartreuse;
+    font-family: monospace;
+    color: fuchsia;
+    
+    
+    h1 {
+        font-size: 1000pt;
+    }
+}
