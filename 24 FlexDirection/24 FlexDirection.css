@@ -1,0 +1,28 @@
+section {
+    font-size: 24pt;
+    background: white;
+    margin: 5px;
+    padding: 5px;
+}
+
+div {
+    display: flex;
+    background: lightblue;
+    margin: 5px 0;
+}
+
+.container-row {
+    flex-direction: row;
+}
+
+.container-row-reverse {
+    flex-direction: row-reverse;
+}
+
+.container-column {
+    flex-direction: column;
+}
+
+.container-column-reverse {
+    flex-direction: column-reverse;
+}
